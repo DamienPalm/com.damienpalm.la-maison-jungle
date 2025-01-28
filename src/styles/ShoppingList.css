@@ -1,0 +1,6 @@
+.main__shoppingList__plantList {
+    padding: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 800px;
+}
